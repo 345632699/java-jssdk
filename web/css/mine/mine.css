@@ -1,0 +1,58 @@
+﻿.bt-member-header {
+    background-color: #0e90d2;
+    height: 15rem;
+    /*padding:1rem*/
+    color: #FFF;
+}
+
+    .bt-member-header img {
+        border: .4rem solid #fff;
+        border-radius: 50%;
+    }
+
+    .bt-member-header a {
+        margin-top: -2rem;
+        margin-right: 1rem;
+    }
+
+        .bt-member-header a:hover {
+            color: #333;
+            background-color: #dedede;
+        }
+
+    .bt-member-header p, .bt-member-header h1 {
+        margin-top: .3rem;
+        color: #FFF;
+    }
+
+.bt-member-label {
+    color: #dd514c;
+    font-weight: bold;
+}
+
+.bt-member-int .am-list .am-g {
+    padding: .875rem;
+}
+.weui-media-box_appmsg .weui-media-box__hd{
+    width: 4rem;
+    height: 4rem;
+    line-height: 4rem;
+}
+.weui-media-box_appmsg .weui-media-box__thumb{
+    border-radius: 50%;
+}
+.weui-media-box__desc{
+    font-size: 1rem;
+}
+.weui-media-box__title{
+    font-size: 1rem;
+}
+.weui-cell:before{
+    border-top: 0.2rem solid #e5e5e5;
+}
+.weui-cells{
+    margin-top: 0.5rem;
+}
+.weui-media-box{
+    padding:1.5rem;
+}

@@ -1,0 +1,21 @@
+
+body{
+    background: url("/images/return_bg.png");
+}
+.weui-msg__desc {
+    color: #333;
+    margin: 0.3rem 0;
+    font-size: 1rem;
+}
+.label-point1 {
+    font-size: 1.1rem;
+    margin-top: 4rem;
+}
+.box-QRCode {
+    width: 100%;
+    height: auto;
+}
+.box-QRCode img{
+    margin-top: 1rem;
+    width: 50%;
+}

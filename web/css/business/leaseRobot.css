@@ -1,0 +1,7 @@
+﻿.dialog-IsLease .weui-dialog__title{
+    font-size: 0.8rem;
+}
+.dialog-IsLease .check_IsLease {
+    width: 1rem;
+    height: 1rem;
+}

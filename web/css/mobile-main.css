@@ -1,0 +1,28 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: '微软雅黑';
+    background-color: #f4f4f4;
+}
+
+.clearfix {
+    zoom: 1;
+    clear: both;
+}
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+    font-size: 0;
+}
+
+/*修正WEUI*/
+.img-cell-small-icon {
+    width:20px;margin-right:5px;display:block
+}
+.weui-panel:after{
+    border:none;
+}

@@ -1,0 +1,56 @@
+﻿.label-Amount {
+    /*float: right;*/
+    margin-top: 0.5rem;
+    font-size: 1rem;
+    text-align: right;
+    display: block;
+    width: 100%;
+}
+.btn-Refund {
+    float: right;
+}
+
+.page__desc{
+    margin-bottom: 1rem;
+    margin-top: 0.8rem;
+    margin-left: 0.7rem;
+    font-size: 0.8rem;
+}
+.weui-panel{
+    margin-top: 0;
+}
+.weui-panel__bd{
+    /*margin-bottom: 0.5rem;*/
+}
+.weui-media-box:before{
+    border-top: 0.75rem solid #e5e5e5;
+    left:0;
+}
+.weui-media-box_text .weui-media-box__title{
+    margin-bottom: 0.5rem;
+}
+.weui-media-box__title{
+    font-size: 1rem;
+}
+.weui-media-box__desc{
+    font-size: 0.8rem;
+}
+.weui-form-preview__ft:before{
+    width: 90%;
+    border-top:0.1rem solid #d5d5d6;
+    margin: auto;
+}
+.weui-media-box{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.weui-form-preview__btn:after{
+    border-left:0.1rem solid #d5d5d6;
+    height: 90%;
+}
+/*.weui-form-preview__btn_default{*/
+    /*padding: 0.25rem;*/
+/*}*/
+.dropload-down{
+    border-top: 0.75rem solid #e5e5e5;
+}

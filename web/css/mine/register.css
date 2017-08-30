@@ -1,0 +1,13 @@
+﻿#label-CountDown {
+    display: inline-block;
+   line-height: 45px;
+    font-size: 17px;
+        height: 45px;
+    vertical-align: middle;
+}
+.box-vcode {
+    padding-right: 0.7rem;
+}
+.weui-vcode-btn {
+    padding-right: 0;
+}

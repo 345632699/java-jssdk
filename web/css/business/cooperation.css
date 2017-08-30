@@ -1,0 +1,44 @@
+.weui-cells{
+    margin-top: 0;
+}
+.weui-media-box_text .weui-media-box__title{
+    margin-bottom: 0.2rem;
+}
+.weui-cell__bd{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.weui-textarea,.weui-input{
+    border:1px solid #d5d5d6;
+    border-radius: 0.2rem;
+    padding: 0.3rem 0.5rem;
+    width: 90%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.weui-uploader__file{
+    margin-left: 7%;
+    margin-right: 7%;
+    width: 6rem;
+    height: 6rem;
+    line-height: 6rem;
+    background-color: #ddd;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+    clear: left;
+    float: inherit;
+}
+.weui-media-box{
+    padding-bottom: 0.2rem;
+}
+.weui-media-box:before{
+    border:none;
+}
+.weui-cell:before{
+    border:none;
+}
+.weui-uploader__file{
+    background: url("/images/add.png");
+    background-size: cover;
+}

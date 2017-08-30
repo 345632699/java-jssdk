@@ -1,0 +1,17 @@
+.weui-cells{
+    border-bottom: 0.5rem solid #f4f4f4;
+}
+.weui-cells:after,.weui-panel:after{
+    border: none;
+}
+.weui-tab__content{
+    margin-top: 0.5rem;
+}
+.weui-navbar__item:after{
+    border:none;
+    padding:0.5rem 0;
+}
+.weui-navbar__item.weui-bar__item_on{
+    background: none;
+    border-bottom: 0.2rem solid #d5d5d5;
+}

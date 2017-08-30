@@ -1,0 +1,30 @@
+.weui-cells {
+    margin-top: 0;
+}
+.zt{
+    margin-top:1.5rem;
+    clear:both;
+    border-top: 0.15rem solid #d5d5d5;
+    text-align: right;
+    padding-top: 0.5rem;
+    color: red;
+    font-size:0.8rem;
+}
+.weui-panel{
+    margin-top: 0;
+}
+.weui-media-box:before{
+    left:0;
+    border-top: 0.7rem solid #d5d5d5;
+    height: 0;
+}
+.dropload-down{
+    border-top: 0.75rem solid #e5e5e5;
+}
+.weui-media-box_appmsg .weui-media-box__hd{
+    width: 26%;
+    height:100%;
+}
+.hide{
+    display:  none;
+}

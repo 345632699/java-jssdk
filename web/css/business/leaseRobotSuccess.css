@@ -1,0 +1,41 @@
+﻿
+.weui-msg__desc {
+    color: #333;
+    margin: 0.3rem 0;
+    font-size: 0.9rem;
+}
+.label-point1 {
+    margin-top: 0.5rem;
+    font-size: 0.9rem;
+}
+.box-QRCode {
+    width: 100%;
+    height: auto;
+}
+.box-QRCode img{
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    width: 30%;
+}
+.label-tips-1 {
+    font-size: 0.8rem;
+    color: darkgray;
+}
+.label-tips-2 {
+    font-size: 0.8rem;
+    color: darkgray;
+}
+.weui-msg{
+    margin-bottom: 0.5rem;
+    padding: 1rem;
+    background: #fff;
+}
+.weui-msg__desc{
+    margin: 0;
+}
+.weui-msg__text-area{
+    margin-bottom: 0;
+}
+.QRCode{
+    padding-bottom: 2rem;
+}

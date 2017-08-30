@@ -1,0 +1,24 @@
+.box-AboutMe {
+    text-align: center;
+}
+.box-Logo {
+    margin-top: 1rem;
+}
+.box-Logo img {
+    width: 40%;
+}
+.icon {
+    width: 20px; margin-right: 5px; display: block
+}
+.weui-cells{
+    margin-top: 0;
+}
+.weui-cell{
+    padding: 0.75rem 1.2rem;
+}
+.weui-cell:before{
+    border-top: 0.15rem solid #d5d5d5;
+}
+.weui-cell__bd{
+    text-indent:0.4rem;
+}

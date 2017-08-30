@@ -1,0 +1,12 @@
+﻿.box-AboutMe {
+    text-align: center;
+}
+.box-Logo {
+    margin-top: 1rem;
+}
+.box-Logo img {
+    width: 40%;
+}
+.icon {
+    width: 20px; margin-right: 5px; display: block
+}

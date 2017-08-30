@@ -1,0 +1,27 @@
+﻿.container-Map {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 30%;
+    background-color: #eee;
+}
+.container-Map #box-Map {
+    height:100%;
+}
+.container-SalesNetwork {
+    overflow-y: scroll;
+    position: absolute;
+    top: 30%;
+    width: 100%;
+    height: 70%;
+}
+.box-numbers {
+    width: 40px;
+}
+.box-numbers .item {
+    width: 40px; float: left;
+}
+.box-numbers .item .indicator-name {
+    display: block; width: 32px; font-size: 0.7rem; text-align: center; line-height: 0.5rem;
+}
