@@ -9,9 +9,9 @@ import java.sql.Statement;
 
 public final class JdbcUtilsSingle {
 
-    private static String url="jdbc:mysql://120.77.43.103:3306/weixin?useUnicode=true&characterEncoding=utf-8";
-    private String user = "xu";
-    private String password = "root";
+    private static String url="jdbc:mysql://xxxx/weixin?useUnicode=true&characterEncoding=utf-8";
+    private String user = "xxxx";
+    private String password = "xxxx";
 
 // private static JdbcUtilsSingle instance = new JdbcUtilsSingle();
 
